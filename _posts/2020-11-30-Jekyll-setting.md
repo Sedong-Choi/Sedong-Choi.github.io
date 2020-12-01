@@ -17,9 +17,10 @@ https://honbabzone.com/jekyll/start-gitHubBlog/#_configyml-%EC%88%98%EC%A0%95
 
 ## _config.yml 을 통하여 기본적인 설정
 
-> site Settings 과 Site Autor을 설정해 보았다.( _config.yml 변경점 확인 )
+> site Settings 과 Site Autor을 설정해 보았다.( _config.ymlgit 변경점 확인 )
 >
 > navigation 설정은 /_data/navigation.yml, _config.yml, _pages 수정을 통하여 가능하다.
+>
 >
 
 
